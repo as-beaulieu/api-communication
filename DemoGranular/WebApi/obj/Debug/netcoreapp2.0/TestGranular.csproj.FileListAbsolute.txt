@@ -1,0 +1,11 @@
+C:\v4target\TestGranularSolution\TestGranular\bin\Debug\netcoreapp2.0\TestGranular.deps.json
+C:\v4target\TestGranularSolution\TestGranular\bin\Debug\netcoreapp2.0\TestGranular.runtimeconfig.json
+C:\v4target\TestGranularSolution\TestGranular\bin\Debug\netcoreapp2.0\TestGranular.runtimeconfig.dev.json
+C:\v4target\TestGranularSolution\TestGranular\bin\Debug\netcoreapp2.0\TestGranular.dll
+C:\v4target\TestGranularSolution\TestGranular\bin\Debug\netcoreapp2.0\TestGranular.pdb
+C:\v4target\TestGranularSolution\TestGranular\obj\Debug\netcoreapp2.0\TestGranular.csprojResolveAssemblyReference.cache
+C:\v4target\TestGranularSolution\TestGranular\obj\Debug\netcoreapp2.0\TestGranular.csproj.CoreCompileInputs.cache
+C:\v4target\TestGranularSolution\TestGranular\obj\Debug\netcoreapp2.0\TestGranular.AssemblyInfoInputs.cache
+C:\v4target\TestGranularSolution\TestGranular\obj\Debug\netcoreapp2.0\TestGranular.AssemblyInfo.cs
+C:\v4target\TestGranularSolution\TestGranular\obj\Debug\netcoreapp2.0\TestGranular.dll
+C:\v4target\TestGranularSolution\TestGranular\obj\Debug\netcoreapp2.0\TestGranular.pdb
